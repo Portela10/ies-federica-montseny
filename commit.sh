@@ -2,6 +2,6 @@
 
 MESSAGE=$1
 
-git add *
-git commit -m $MESSAGE
+git add -u *
+git commit -m "$MESSAGE"
 git push
