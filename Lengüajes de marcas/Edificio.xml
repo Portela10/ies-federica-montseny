@@ -1,0 +1,32 @@
+<?xmlversion="1.0" encoding="utf-8"?>
+<Edificio xmlns:propietario=www.propietario.org"
+          xmlns:"www.edificio.org">
+	<Direccion>Avenida Europa</Direccion>
+	<Municipio>Fuenlabrada</Municipio>
+		<ListadodeApartamentos>
+			<Apartamento Nombre="Torrevieja">
+			    <NumerodePlanta>14</NumerodePlanta>
+			    <Puerta>2B</puerta>
+                </ListadodePropietarios>
+                    <propietario:Propietario>
+                        <Nombre>Pablo</Nombre>
+                        <Apellidos>Diaz Acedo</Apellidos>
+                    </propietario:Propietario>
+                    <propietario:Propietario>
+                        <Nombre>Mario</Nombre>
+                        <Apellidos>Garcia Lopez</Apellidos>
+                    </propietario:Propietario>
+                </ListadodePropietarios>
+		    </Apartamento>
+			<Apartamento Nombre="Tres aguas">
+			    <NumerodePlanta>4</NumerodePlanta>
+			    <Puerta>1C</puerta>
+                </ListadodePropietarios>
+                    <propietario:Propietario>
+                        <Nombre>Sergio</Nombre>
+                        <Apellidos>Ortiz Nieto</Apellidos>
+                    </propietario:Propietario>
+                </ListadodePropietarios>
+		    </Apartamento>
+		</ListadodeApartamentos>      
+</Edificio>

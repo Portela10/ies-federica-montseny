@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Biblioteca>
+	<Libro ISBN="57668888">
+		<Titulo>Cien años de Slodead</Titulo>
+		<anodepublicacion>1983</anodepublicacion>
+		<autores>
+			<autor>
+			<Nombre>Gabriel Garcia</Nombre>
+			<Nacimiento>1945</Nacimineto>
+			</autor>
+			<autor>
+			<Nombre>Jesus Garcia</Nombre>
+			<Nacimiento>1966</Nacimineto>
+			</autor>
+		</autores>
+		<Genero>Realismo magico</Genero>
+		<Ejemplares>
+			<Ejemplar num="1">
+				<Estado>Disponible</Estado>
+				<Adiquisicion>2005</Adquisicion>
+				</Ejemplar>
+			<Ejemplar num="2">
+				<Estado>Prestado</Estado>
+				<Adiquisicion>2009</Adquisicion>
+			</Ejemplar>	
+		</Ejemplares>		
+</biblioteca>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+	<libro titulo="El resplandor">
+	<autores xmlns:literaruta="http://www.re8.org/literatura/"
+	xmlns:escritor="http://www.re8.org/escritor/>
+		<autor>
+			<nombre>David Garcia</nombre>
+			<nacimiento>1972 </nacimiento>
+			<nacionalidad>española</nacionalidad>
+		</autor>
+		<autor>
+			<nombre>Miguel Rio</nombre>
+			<nacimiento>1955</nacimiento>
+			<nacionalidad>española</nacionalidad>
+		</autor>
+	</autores>
+		<depublicacion>2002</anodepublicacion>
+		<genero> suspense </genero>
+	<ejemplares xmlns:unidad="http://www.re8.org/unidad/"
+	xmlns:cantidad="http://www.x5.org/cantidad/>
+		<ejemplar>
+			<numeroejemplares>32</numeroejemplares> 
+			<estado>disponible</estado>
+			<fechadeadquisicion>2002</fechadeadquisicion>
+		</ejemplar>
+		<ejemplar>
+			<numeroejemplares>22</numeroejemplares>
+			<estado>disponible</estado>
+			<fechadeadquisicion>1980</fechadeadquisicion>
+		</ejemplar>
+	</ejemplares>
+	</libro>
+	<libro titulo="qwerty">
+		<anodepublicacion>1978</anodepublicacion>
+		<genero>drama</genero)	
+	</libro>
+</biblioteca>
